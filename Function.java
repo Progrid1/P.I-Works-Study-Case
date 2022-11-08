@@ -1,3 +1,7 @@
+//5.[Coding] In any programming language, write a function which displays all odd numbers between two numeric values, including themselves. 
+//Consider reading the parameters from user input.
+
+
 import java.util.Scanner;
 
 public class Function {
